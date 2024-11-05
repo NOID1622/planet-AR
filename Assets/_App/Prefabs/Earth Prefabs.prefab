@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8139586483563134898
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 115385826543108880, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_Name
+      value: EarthPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4161280902035330650, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422790418441643926, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422790418441643926, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422790418441643926, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5422790418441643926, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.075
+      objectReference: {fileID: 0}
+    - target: {fileID: 7612400040637403316, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ea9695adbbce47c4c91a12c97dc399d4, type: 2}
+    - target: {fileID: 8425996118640435665, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: planetName
+      value: Earth
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425996118640435665, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}
+      propertyPath: description
+      value: ' Earth is the third planet from the Sun and the only astronomical object
+        known to harbor and support life'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7cc4424443b5e844e81960a2556f15e5, type: 3}

@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5169630658702305327
+  m_GuidHigh: 8498455556104275375
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5161547407161318414
+      m_GuidHigh: 9956795274060397494
+    m_SerializedTextureGuid:
+      m_GuidLow: 13971486374346498814
+      m_GuidHigh: 5952586873953109578
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Earth-MarkerCard
+    m_Texture: {fileID: 2800000, guid: 572222feb0d5c1e44ac6a04439d69b52, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4887261526078646536
+      m_GuidHigh: 14283092829954237846
+    m_SerializedTextureGuid:
+      m_GuidLow: 1365834998925759205
+      m_GuidHigh: 11348931101720743259
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Merah-MarkerCard
+    m_Texture: {fileID: 2800000, guid: ecc412e56bb112f45b8d7232b5807f9d, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5759861508501070258
+      m_GuidHigh: 9377477291274379921
+    m_SerializedTextureGuid:
+      m_GuidLow: 2973645497677083310
+      m_GuidHigh: 809486456542991705
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Jupiter-MarkerCard2
+    m_Texture: {fileID: 2800000, guid: 38fb72ae82d329445915bcb4a4df3b0b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4959889613113467043
+      m_GuidHigh: 12480069921630975623
+    m_SerializedTextureGuid:
+      m_GuidLow: 14372367128611392484
+      m_GuidHigh: 12532215956262515146
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Mercury-MarkerCard
+    m_Texture: {fileID: 2800000, guid: 62620be4e7c1c774ca7182810360ebad, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4909533225300368807
+      m_GuidHigh: 8286165274776860344
+    m_SerializedTextureGuid:
+      m_GuidLow: 17452813779026210963
+      m_GuidHigh: 9664218709085087624
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Moon-MarkerCard
+    m_Texture: {fileID: 2800000, guid: bde67093d9a9f2348867b372b6331e86, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5111032114172925268
+      m_GuidHigh: 9967395725322230970
+    m_SerializedTextureGuid:
+      m_GuidLow: 10120873724455079730
+      m_GuidHigh: 1480528390214481241
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Neptune-MarkerCard2
+    m_Texture: {fileID: 2800000, guid: 9abacf3291078c7459759d0abae48b14, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5212841769318226137
+      m_GuidHigh: 16644352576130932127
+    m_SerializedTextureGuid:
+      m_GuidLow: 1946839128947964297
+      m_GuidHigh: 14385483455474883384
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Saturn-MarkerCard
+    m_Texture: {fileID: 2800000, guid: 7bc639898fdf1b0438dbd635fc80a3c7, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5689753400581186787
+      m_GuidHigh: 17830754352662063509
+    m_SerializedTextureGuid:
+      m_GuidLow: 802885828476665501
+      m_GuidHigh: 15205271629785556747
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Uranus-MarkerCard2
+    m_Texture: {fileID: 2800000, guid: 398bfe9d6c680b240b67b17efcf903d3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4985640075919378202
+      m_GuidHigh: 152878210743009711
+    m_SerializedTextureGuid:
+      m_GuidLow: 4329251563197263033
+      m_GuidHigh: 4266336997279629898
+    m_Size: {x: 0.08, y: 0.11452632}
+    m_SpecifySize: 1
+    m_Name: Venus-MarkerCard2
+    m_Texture: {fileID: 2800000, guid: ffad6cb9975b3c144a82f51ee512353b, type: 3}
